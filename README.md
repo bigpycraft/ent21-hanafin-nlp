@@ -15,20 +15,11 @@
 
 <hr>
 
-## Python NLP Programming
-- Python Programming Overview
-- String Data Processing
-- File I/O for Text Handling
-- Python Package for NLP
-- Data Modeling for NLP Analysis
-- Web Data Scraping & Crawling
-- How to use KoNLP
-- TextMining
-- WordCounding, WordCloud
-- Artificial neural network Overview
-- SoftMax, Xavier Initialization, NN Dropout
-- RNN, Seq2seq, Word Embeding
-
+## 파이썬으로 배우는 자연어 기술처리 입문
+- W1 : Python Programming Practice
+- W2 : Python Packages and Modules
+- W3 : Data Modeling and Web Cralwling
+- W4 : Natural Language Processing
 
 <hr>
 
