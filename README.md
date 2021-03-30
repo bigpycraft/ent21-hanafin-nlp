@@ -1,5 +1,5 @@
 
-# Basic Course for Natural Language Processing in Python, 2021
+# Python Based Natural Language Processing Course, 2021
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
@@ -9,14 +9,14 @@
 <img src="./images/img_main_front.png">
 
 ## Notice 
-[교육자료] : https://github.com/bigpycraft/ent21-hanafin-nlp
-[공유폴더] : \192.15.206.251\100000100$
-[보안PW] : itcampus21! 또는 itcampus21!!
+- [교육자료] : https://github.com/bigpycraft/ent21-hanafin-nlp
+- [공유폴더] : \192.15.206.251\100000100$
+- [보안PW] : itcampus21! 또는 itcampus21!!
 
 <hr>
 
 ## Python NLP Programming
-- Python Programming Base
+- Python Programming Overview
 - String Data Processing
 - File I/O for Text Handling
 - Python Package for NLP
