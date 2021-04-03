@@ -15,11 +15,11 @@
 
 ## Python Packages and Modules
 
-- 2-1. [FileIO Basic           ][A2010]
-- 2-2. [FileIO OS-CMD          ][A2020]
-- 2-3. [Module1                ][A2030]
-- 2-4. [Module2                ][A2030]
-- 2-5. [DateTIme1              ][A2051]
+- 2-1. [Pythonic Code          ][A2000]
+- 2-2. [FileIO Basic           ][A2010]
+- 2-3. [FileIO OS-CMD          ][A2020]
+- 2-4. [Modules                ][A2030]
+- 2-5. [DateTIme               ][A2051]
 - 2-6. [Map, Filter, Reduce    ][A2101]
 - 2-7. [JSON Handle            ][A2200]
 - 2-8. [Regular Expression     ][A2300]
@@ -28,6 +28,7 @@
 - 3-2. [Pandas                 ][B3200]
 - 3-3. [MatplotLib.Pyplot      ][B3300]
 
+[A2000]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A200_Pythonic_Code_v1.html         "Go A2000"
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
 [A2030]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A203_Module_ver1.html              "Go A2030"
