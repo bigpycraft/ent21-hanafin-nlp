@@ -18,14 +18,16 @@
 - 3-1. [NumPy                  ][B3100]
 - 3-2. [Pandas                 ][B3200]
 - 3-3. [MatplotLib.Pyplot      ][B3300]
-<br/><br/><b><font color='#CC0000'>응용</font></b><br/>
-- <font color='#CC0000'> [미션] 오픈데이터분석, Kaggle.com</font> ─────▶ [[클릭]][D4300]
-- 3-4. [Analytical Approach : General           ][D4310]
-- 3-5. [Analytical Approach : Advanced          ][D4324]
-<br/><br/>[Web Scraping]<br/>
-- 11-1. [Web Scraping Basic1           ][E5111]
-- 11-2. [Web Scraping Basic2           ][E5112]
-- 11-3. [Web Scraping Basic3           ][E5113]
+<br/><br/>
+- 3-4. Data Anaysis Practice
+<br/> <font color='#CC0000'> Quiz1. 오픈데이터분석, Kaggle.com</font> ─────▶ [[클릭]][D4300]
+<br/> 1) [Analytical Approach : General           ][D4310]
+<br/> 2) [Analytical Approach : Advanced          ][D4324]
+<br/><br/>
+- 3-5. Web Scraping
+<br/> 1) [Web Scraping Basic1           ][E5111]
+<br/> 2) [Web Scraping Basic2           ][E5112]
+<br/> 3) [Web Scraping Basic3           ][E5113]
 <br/><br/>[Web Scraping]<br/>
 - Quiz2. [Web Scraping Practice B      ][E5300]
 - 13-1. [Web Crawling - 50 Best 1/2    ][E5310]
