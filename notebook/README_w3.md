@@ -16,7 +16,9 @@
 ## Data Modeling and Web Cralwling
 
 - 3-1. [NumPy                  ][B3100]
+<br/><br/>
 - 3-2. [Pandas                 ][B3200]
+<br/><br/>
 - 3-3. [MatplotLib.Pyplot      ][B3300]
 <br/><br/>
 - 3-4. Data Anaysis Practice
@@ -24,9 +26,7 @@
 <br/> 1) [Analytical Approach : General           ][D4310]
 <br/> 2) [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
-- 3-5. Web Scraping
-<br/> 1) [Web Scraping Basic1           ][E5111]
-<br/> 2) [Web Scraping Basic2           ][E5112]
+- 3-5. [Web Scraping Basic           ][E5112]
 <br/><br/>
 - 3-6. Web Crawling Basic
 <br/> ★ Quiz2. [Web Crawling Practice     ][E5300]
