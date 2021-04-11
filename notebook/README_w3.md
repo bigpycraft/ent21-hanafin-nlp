@@ -28,35 +28,18 @@
 <br/> 1) [Web Scraping Basic1           ][E5111]
 <br/> 2) [Web Scraping Basic2           ][E5112]
 <br/> 3) [Web Scraping Basic3           ][E5113]
-<br/><br/>[Web Scraping]<br/>
-- Quiz2. [Web Scraping Practice B      ][E5300]
-- 13-1. [Web Crawling - 50 Best 1/2    ][E5310]
-- 13-2. [Web Crawling - 50 Best 2/2    ][E5320]
 <br/><br/>
-- Quiz4. [Selenium Crawling Practice D ][E5800]
-- 15-1. [How to use Selenium           ][E5700]
-- 15-2. [Selenium Crawling - Final     ][E5810]
+- 3-6. Web Crawling Basic
+<br/> Quiz2. [Web Crawling Practice     ][E5300]
+<br/> 1) [Web Crawling - 50 Best 1/2    ][E5310]
+<br/> 2) [Web Crawling - 50 Best 2/2    ][E5320]
+<br/><br/>
+- 3-7. Web Crawling Advanced
+<br/> Quiz3. [Selenium Crawling Practice   ][E5800]
+<br/> 1) [How to use Selenium           ][E5700]
+<br/> 2) [Selenium Crawling - Final     ][E5810]
 <br/><br/>
 <hr>
-
-## Appendix
-<br/><br/>
-- 10-1. [Folium for Map                         ][D4600]
-- 10-2. [Seoul Stat 1                           ][D4610]
-- 10-3. [Seoul Stat 2                           ][D4720]
-<br/><br/>
-- Quiz1. [Web Scraping Practice A      ][E5200]
-- 12-1. [Web Crawling - Movie Ranking v1 ][E5220]
-- 12-2. [Web Crawling - Movie Ranking v2 ][E5221]
-<br/><br/>
-- Quiz2. [Web Scraping Practice B      ][E5300]
-- 13-1. [Web Crawling - 50 Best 1/2    ][E5310]
-- 13-2. [Web Crawling - 50 Best 2/2    ][E5320]
-<br/><br/>
-- Quiz3. [Web Scraping Practice C      ][E5510]
-- 14-1. [Web Crawling - WikiPedia 1    ][E5511]
-- 14-2. [Web Crawling - WikiPedia 2    ][E5512]
-<br/><br/>
 
 
 [A2000]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A200_Pythonic_Code_v1.html         "Go A2000"
