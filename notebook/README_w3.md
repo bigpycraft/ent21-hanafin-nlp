@@ -8,28 +8,20 @@
 
 ## 파이썬으로 배우는 자연어 기술처리 입문
 - W1 : Python Programming Practice
-- <b>W2 : Python Packages and Modules</b>
-- W3 : Data Modeling and Web Cralwling
+- W2 : Python Packages and Modules
+- <b>W3 : Data Modeling and Web Cralwling</b>
 - W4 : Natural Language Processing
 <hr>
 
-## Python Packages and Modules
+## Data Modeling and Web Cralwling
 
 - 3-1. [NumPy                  ][B3100]
 - 3-2. [Pandas                 ][B3200]
 - 3-3. [MatplotLib.Pyplot      ][B3300]
 <br/><br/>
-
 - 3-4. [응용1: Analytical Approach : General           ][D4310]
 - 3-5. [응용2: Analytical Approach : Advanced          ][D4324]
-
 <br/><br/>
-- 10-1. [Folium for Map                         ][D4600]
-- 10-2. [Seoul Stat 1                           ][D4610]
-- 10-3. [Seoul Stat 2                           ][D4720]
-
-## Data Modeling and Web Cralwling
-
 - 11-1. [Web Scraping Basic1           ][E5111]
 - 11-2. [Web Scraping Basic2           ][E5112]
 - 11-3. [Web Scraping Basic3           ][E5113]
@@ -38,11 +30,14 @@
 - 15-1. [How to use Selenium           ][E5700]
 - 15-2. [Selenium Crawling - Final     ][E5810]
 <br/><br/>
+<hr>
 
-
-
-
-
+## Appendix
+<br/><br/>
+- 10-1. [Folium for Map                         ][D4600]
+- 10-2. [Seoul Stat 1                           ][D4610]
+- 10-3. [Seoul Stat 2                           ][D4720]
+<br/><br/>
 - Quiz1. [Web Scraping Practice A      ][E5200]
 - 12-1. [Web Crawling - Movie Ranking v1 ][E5220]
 - 12-2. [Web Crawling - Movie Ranking v2 ][E5221]
