@@ -20,22 +20,21 @@
 - 3-3. [MatplotLib.Pyplot      ][B3300]
 <br/><br/>
 - 3-4. Data Anaysis Practice
-<br/> <font color='#CC0000'> Quiz1. 오픈데이터분석, Kaggle.com</font> ─────▶ [[클릭]][D4300]
+<br/> ★ Quiz1. [오픈데이터분석, Kaggle.com</font>   ][D4300]
 <br/> 1) [Analytical Approach : General           ][D4310]
 <br/> 2) [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
 - 3-5. Web Scraping
 <br/> 1) [Web Scraping Basic1           ][E5111]
 <br/> 2) [Web Scraping Basic2           ][E5112]
-<br/> 3) [Web Scraping Basic3           ][E5113]
 <br/><br/>
 - 3-6. Web Crawling Basic
-<br/> Quiz2. [Web Crawling Practice     ][E5300]
+<br/> ★ Quiz2. [Web Crawling Practice     ][E5300]
 <br/> 1) [Web Crawling - 50 Best 1/2    ][E5310]
 <br/> 2) [Web Crawling - 50 Best 2/2    ][E5320]
 <br/><br/>
 - 3-7. Web Crawling Advanced
-<br/> Quiz3. [Selenium Crawling Practice   ][E5800]
+<br/> ★ Quiz3. [Selenium Crawling Practice   ][E5800]
 <br/> 1) [How to use Selenium           ][E5700]
 <br/> 2) [Selenium Crawling - Final     ][E5810]
 <br/><br/>
