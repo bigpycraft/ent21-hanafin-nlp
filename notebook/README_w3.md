@@ -18,7 +18,8 @@
 - 3-1. [NumPy                  ][B3100]
 - 3-2. [Pandas                 ][B3200]
 - 3-3. [MatplotLib.Pyplot      ][B3300]
-<br/><br/>[응용]<br/>
+<br/><br/><b><font color='#CC0000'>응용</font></b><br/>
+- <font color='#CC0000'> [미션] 오픈데이터분석, Kaggle.com</font> ─────▶ [[클릭]][D4300]
 - 3-4. [Analytical Approach : General           ][D4310]
 - 3-5. [Analytical Approach : Advanced          ][D4324]
 <br/><br/>[Web Scraping]<br/>
