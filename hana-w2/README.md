@@ -24,9 +24,7 @@
 - 2-7. [JSON Handle            ][A2200]
 - 2-8. [Regular Expression     ][A2300]
 <br/><br/>
-- 3-1. [NumPy                  ][B3100]
-- 3-2. [Pandas                 ][B3200]
-- 3-3. [MatplotLib.Pyplot      ][B3300]
+
 
 [A2000]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A200_Pythonic_Code_v1.html         "Go A2000"
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
