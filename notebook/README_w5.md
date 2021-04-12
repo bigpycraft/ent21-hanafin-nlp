@@ -16,17 +16,27 @@
 ## Data Modeling and Web Cralwling
 
 - 3-1. [NumPy                  ][B3100]
+<br/><br/>
 - 3-2. [Pandas                 ][B3200]
+<br/><br/>
 - 3-3. [MatplotLib.Pyplot      ][B3300]
+<br/><br/>
 - 3-4. Data Anaysis Practice
 <br/> ★ Quiz1. [오픈데이터분석, Kaggle.com</font>   ][D4300]
 <br/> 1) [Analytical Approach : General           ][D4310]
 <br/> 2) [Analytical Approach : Advanced          ][D4324]
-- 3-5. [Web Scraping           ][E5112]
-- 3-6. Web Crawling 
+<br/><br/>
+- 3-5. [Web Scraping Basic           ][E5112]
+<br/><br/>
+- 3-6. Web Crawling Basic
 <br/> ★ Quiz2. [Web Crawling Practice     ][E5300]
 <br/> 1) [Web Crawling - 50 Best 1/2    ][E5310]
 <br/> 2) [Web Crawling - 50 Best 2/2    ][E5320]
+<br/><br/>
+- 3-7. Web Crawling Advanced
+<br/> ★ Quiz3. [Selenium Crawling Practice   ][E5800]
+<br/> 1) [How to use Selenium           ][E5700]
+<br/> 2) [Selenium Crawling - Final     ][E5810]
 <br/><br/>
 <hr>
 
