@@ -175,7 +175,7 @@
     <br/><br/>
     <b> 3. JPype 설치 </b> : <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype">JPype1  (>=0.5.7) </a>Install
     <br/> &nbsp;&nbsp; (Anaconda Prompt) C:\Users\user> <b> pip install --upgrade pip </b>
-    <br/> &nbsp;&nbsp; (Anaconda Prompt) C:\Users\user> <b> pip install JPype1‑0.6.3‑cp36‑cp36m‑win_amd64.whl </b>
+    <br/> &nbsp;&nbsp; (Anaconda Prompt) C:\Users\user> <b> pip install JPype1-1.2.0-cp38-cp38-win_amd64.whl </b>
     <br/><br/>
     <b> 4. KoNLPy 설치 </b> :
     <br/> &nbsp;&nbsp; (Anaconda Prompt) C:\Users\user> <b> pip install konlpy </b>
