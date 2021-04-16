@@ -14,16 +14,19 @@
 <hr>
 
 ## Natural Language Processing</b>
+
+### KoNLPy
 - 4-1. [NLP Overview & Setting                    ][F7110]
 - 4-2. [KoNLPy Module                             ][F7200]
 - 4-3. [KoNLPy 형태소분석                         ][F7300]
 <br/><br/>
-- 15-1. [NLP WordCount - 법관련 국회의안           ][F7130]
-- 15-2. [NLP WordCloud - 동물보호법                ][F7400]
-- 15-3. [NLP WordCloud - 대통령연설문              ][F7500]
-- 15-4. [NLP WordCloud - Masking Eng Version 1/2   ][F7601]
-- 15-4. [NLP WordCloud - Masking Eng Version 2/2   ][F7602]
-- 15-5. [NLP WordCloud - Masking Kor Version       ][F7700]
+### WordCloud
+- 5-1. [NLP WordCount - 법관련 국회의안           ][F7130]
+- 5-2. [NLP WordCloud - 동물보호법                ][F7400]
+- 5-3. [NLP WordCloud - 대통령연설문              ][F7500]
+- 5-4. [NLP WordCloud - Masking Eng Version 1/2   ][F7601]
+- 5-4. [NLP WordCloud - Masking Eng Version 2/2   ][F7602]
+- 5-5. [NLP WordCloud - Masking Kor Version       ][F7700]
 
 
 [F7110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_711_NLP_KoNLPy_Module.html                "Go F7110"
