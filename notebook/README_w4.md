@@ -30,7 +30,8 @@
  
 
 [F7110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F711_NLP_KoNLPy_Module_ver3.html            "Go F7110"
-[F7200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_720_KoNLPy_Module_ver2.0.html             "Go F7200"
+[F7200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F720_KoNLPy_Module_ver3.html                "Go F7200"
+
 [F7300]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_730_KoNLPy_WordCloud_형태소분석_v2.html   "Go F7300"
 [F7130]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_713_NLP_kobill_v2.html                    "Go F7130"
 [F7400]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_740_KoNLPy_WordCloud_동물보호법_v3.html   "Go F7400"
