@@ -27,7 +27,7 @@
 - 5-4. [NLP WordCloud - Masking Eng Version 1/2   ][F7601]
 - 5-4. [NLP WordCloud - Masking Eng Version 2/2   ][F7602]
 - 5-5. [NLP WordCloud - Masking Kor Version       ][F7700]
-
+ 
 
 [F7110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F711_NLP_KoNLPy_Module_ver3.html            "Go F7110"
 [F7200]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_720_KoNLPy_Module_ver2.0.html             "Go F7200"
