@@ -19,7 +19,7 @@
 - 4-1. [NLP Overview & Setting                    ][F7110]
 - 4-2. [KoNLPy Module,  형태소분석                ][F7200]
 
-### WordCloud
+### TextMining
 - 5-1. [NLP WordCount - 법관련 국회의안           ][F7130]
 - 5-2. [NLP WordCloud - 동물보호법                ][F7400]
 - 5-3. [NLP WordCloud - 대통령연설문              ][F7500]
