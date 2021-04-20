@@ -18,7 +18,7 @@
 ### KoNLPy
 - 4-1. [NLP Overview & Setting                    ][F7110]
 - 4-2. [KoNLPy Module,  형태소분석                ][F7200]
-<br/><br/>
+
 ### WordCloud
 - 5-1. [NLP WordCount - 법관련 국회의안           ][F7130]
 - 5-2. [NLP WordCloud - 동물보호법                ][F7400]
