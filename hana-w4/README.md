@@ -22,8 +22,8 @@
 ### WordCloud
 - 5-1. [NLP WordCount - 대한민국헌법              ][F7400]
 - 5-2. [NLP WordCloud - 대통령연설문              ][F7500]
-- 5-3. [NLP WordCloud - Masking Eng Version 1/2   ][F7601]
-- 5-4. [NLP WordCloud - Masking Eng Version 2/2   ][F7602]
+- 5-3. [NLP WordCloud - Masking Eng Version 1/2   ][F7610]
+- 5-4. [NLP WordCloud - Masking Eng Version 2/2   ][F7620]
 - 5-5. [NLP WordCloud - Masking Kor Version       ][F7700]
  
 
@@ -33,14 +33,10 @@
 [F7400]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F740_KoNLPy_WordCount_대한민국헌법_v2.html     "Go F7400"
 [F7500]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F750_KoNLPy_WordCloud_대통령연설문_v3.html     "Go F7500"
 
-[F7601]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_760_NLP_WordCloud_Eng_Alice_v3-1.html     "Go F7601"
-[F7602]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_760_NLP_WordCloud_Eng_Alice_v3-2.html     "Go F7602"
-[F7700]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_770_WordCloud_이미지마스킹_v3.html        "Go F7700"
+[F7610]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F761_NLP_WordCloud_USA_constitution.html       "Go F7610"
+[F7620]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F762_NLP_WordCloud_USA_alice_story.html        "Go F7620"
+[F7700]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/BPC_F770_WordCloud_이미지마스킹_v3.html            "Go F7700"
 
-
-
-[F7400]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_740_KoNLPy_WordCloud_동물보호법_v3.html      "Go F7400"
-[F7300-xx]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html_konlpy/PF_DA_730_KoNLPy_WordCloud_형태소분석_v2.html   "Go F7300"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
